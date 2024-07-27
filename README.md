@@ -21,7 +21,7 @@ The datasets used in this analysis are publicly available:
 ## Visualizations
 
 ### Box-and-Whisker Plot of Female and Male BMIs
-![Box-and-Whisker Plot](images/Box-and-Whisker plot for Male and Female BMIs.png)
+![Box-and-Whisker Plot](images/Box_and_Whisker_plot_for_Male_and_Female_BMIs.png)
 
 ### Histogram for Female BMIs
 ![Female BMIs](images/Histogram for Male and Female BMIs.png)
