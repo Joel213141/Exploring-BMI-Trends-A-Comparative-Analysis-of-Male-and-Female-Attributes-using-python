@@ -23,9 +23,6 @@ The datasets used in this analysis are publicly available:
 ### Box-and-Whisker Plot of Female and Male BMIs
 ![Box-and-Whisker Plot](images/1.png)
 
-### Histogram for Female BMIs
-![Female BMIs](images/2.png)
-
 ### Heatmap of Spearman and Pearson Correlations
 ![Heatmap](images/3.png)
 
