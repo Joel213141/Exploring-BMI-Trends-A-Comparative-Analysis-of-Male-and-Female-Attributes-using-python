@@ -27,7 +27,7 @@ The datasets used in this analysis are publicly available:
 ![Female BMIs](images/Histogram for Male and Female BMIs.png)
 
 ### Heatmap of Spearman and Pearson Correlations
-![Heatmap](images/Plotting the Spearman and Pearson correlations for the dataset using a Heatmap.png)
+![Heatmap](images/Plotting_the_Spearman_and_Pearson_correlations_for_the_dataset_using_a_Heatmap.png)
 
 ### Pairplot for Female Dataset
 ![Pairplot](images/Visualizing a Pairplot for the Female Dataset (Correlation).png)
