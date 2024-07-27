@@ -24,13 +24,13 @@ The datasets used in this analysis are publicly available:
 ![Box-and-Whisker Plot](images/1.png)
 
 ### Histogram for Female BMIs
-![Female BMIs](images/Histogram for Male and Female BMIs.png)
+![Female BMIs](images/2.png)
 
 ### Heatmap of Spearman and Pearson Correlations
-![Heatmap](images/Plotting_the_Spearman_and_Pearson_correlations_for_the_dataset_using_a_Heatmap.png)
+![Heatmap](images/3.png)
 
 ### Pairplot for Female Dataset
-![Pairplot](images/Visualizing a Pairplot for the Female Dataset (Correlation).png)
+![Pairplot](images/4.png)
 
 ## Conclusions
 The analysis reveals that both male and female BMI datasets exhibit positive skewness, with the female dataset showing greater dispersion. Key correlations among physical attributes are highlighted, with weight showing strong associations with waist, hip size, and BMI, providing insights into gender-based differences in body metrics.
